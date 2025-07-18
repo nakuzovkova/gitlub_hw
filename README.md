@@ -26,9 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-```
-
-При необходимости прикрепитe сюда скриншоты
+Скриншот к заданию 1
 ![Скриншот 1](https://github.com/nakuzovkova/gitlub_hw/blob/master/img/1.png)
 
 
@@ -36,9 +34,8 @@
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-```
-Поле для вставки кода...
+Код к заданию 2
+
 stages:
   - test
   - build
@@ -58,10 +55,11 @@ build:
    - docker build .
   tags:
    - netology
-```
 
-`При необходимости прикрепитe сюда скриншоты
-![Скриншот 2]("https://github.com/nakuzovkova/gitlub_hw/blob/master/img/2.png")`
+
+Скриншот к заданию 2
+![Скриншот 2](https://github.com/nakuzovkova/gitlub_hw/blob/master/img/2.png)
+
 
 
 ---
