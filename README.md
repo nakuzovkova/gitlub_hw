@@ -29,7 +29,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Скриншот 1]("/home/user/homework/gitlub-hw/img/1.png")`
+![Скриншот 1]("https://github.com/nakuzovkova/gitlub_hw/blob/master/img/1.png")`
 
 
 ---
@@ -61,7 +61,7 @@ build:
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Скриншот 2]("/home/user/homework/gitlub-hw/img/1.png")`
+![Скриншот 2]("https://github.com/nakuzovkova/gitlub_hw/blob/master/img/2.png")`
 
 
 ---
