@@ -28,8 +28,8 @@
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Скриншот 1]("https://github.com/nakuzovkova/gitlub_hw/blob/master/img/1.png")`
+При необходимости прикрепитe сюда скриншоты
+![Скриншот 1](https://github.com/nakuzovkova/gitlub_hw/blob/master/img/1.png)
 
 
 ---
